@@ -17,3 +17,10 @@ git checkout FETCH_HEAD
 
 for change reposiretity
 git remote add origin git@github.com:mitm786/black.git
+
+
+// For branch
+
+git branch 
+git branch branchName
+git checkout branchName
