@@ -24,3 +24,9 @@ git remote add origin git@github.com:mitm786/black.git
 git branch 
 git branch branchName
 git checkout branchName
+git push -u origin Branch Name
+
+// Marge master and brance when you on master 
+git merge barnchName  // for marge 
+git branch -d branceName // For delete brane on local
+git push origin --delete branceName
