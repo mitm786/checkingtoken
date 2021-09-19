@@ -15,4 +15,5 @@ git log   /// check all vertion
 git fetch origin vertiontokenidhere
 git checkout FETCH_HEAD
 
-
+for change reposiretity
+git remote add origin git@github.com:mitm786/black.git
